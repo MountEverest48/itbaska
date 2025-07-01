@@ -58,7 +58,7 @@ i18next.init({
 "feature-more-info-2": "Erhalten Sie einen umfassenden Bericht mit Handlungsempfehlungen. Details gerne in unserem Termin.",
 
 "feature-title-3": "Content Security Policy (CSP)",
-"feature-description-3": "Mit einer maßgeschneiderten CSP beschränke ich, welche externen Ressourcen geladen werden dürfen, sodass Angriffe via Cross-Site Scripting oder unerwünschte Inline-Skripte effektiv blockiert werden.So sorgen Ich für eine saubere Ausführung Ihrer Seiten und halte unerwünschte Skripte zuverlässig fern",
+"feature-description-3": "Mit einer maßgeschneiderten CSP beschränke ich, welche externen Ressourcen geladen werden dürfen, sodass Angriffe via Cross-Site Scripting oder unerwünschte Inline-Skripte effektiv blockiert werden.So sorge Ich für eine saubere Ausführung Ihrer Seiten und halte unerwünschte Skripte zuverlässig fern",
 "feature-more-info-3": "Wir definieren gemeinsam eine CSP, die Ihre Webapplikation sicher macht und gleichzeitig flexibel genug bleibt.",
 
 "feature-title-4": "Netzwerk-Analyse & Monitoring",
