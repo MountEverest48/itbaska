@@ -143,7 +143,7 @@ i18next.init({
         "reclaim-link":"Buchen Sie ein Termin",
         "email-link":"E-Mail",
         
-        "footer-text":"\u00A9 2019 ITBaska. Alle Rechte vorbehalten."
+        "footer-text":"\u00A9 2020 ITBaska. Alle Rechte vorbehalten."
         
     }
   },
@@ -260,7 +260,7 @@ i18next.init({
 "reclaim-link":"Book an appointment",
 "email-link":"E-Mail",
 
-"footer-text":"\u00A9 2019 ITBaska. All rights reserved."
+"footer-text":"\u00A9 2020 ITBaska. All rights reserved."
 
         
         
@@ -413,7 +413,7 @@ i18next.init({
 "contact.description":"İlgilendiyseniz, hizmetinizdeyim. Bir randevu ayarlayabilir veya bana bir e-posta gönderebilirsiniz. Talebinizi en kısa sürede yanıtlayacağım.",
 "reclaim-link":"Hemen şimdi Randevu Al",
 "email-link":"E-Posta",
-"footer-text":"\u00A9 2019 ITBaska. Tüm hakları saklıdır."
+"footer-text":"\u00A9 2020 ITBaska. Tüm hakları saklıdır."
   }
   }
 }
