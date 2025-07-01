@@ -54,34 +54,25 @@ i18next.init({
         
         
         
-         "feature-title-2": "Kali-Linux",
-      "feature-description-2": "Kali Linux stellt als hoch spezialisierte Linux-Distribution eine umfangreiche Sammlung von Sicherheitstools für Penetrationstests bereit. Mit Kali Linux führe ich präzise Netzwerkscans durch, erkenne Schwachstellen, analysiere Exploits und führe viele weitere wichtige Sicherheitsprüfungen durch. Die umfassenden Funktionen und die Vielseitigkeit von Kali Linux machen es zur unverzichtbaren Grundlage für umfangreiche und präzise Sicherheitsbewertungen. Ein Muss für umfangreiche Sicherheitsbewertungen.",
-      "feature-more-info-2": "Weitere Informationen zur Kali Linux https://www.kali.org und natürlich bei unserem Termin.",
-        
-        
-        
-        
-         "feature-title-3": "Sicheres Programmieren +",
-      "feature-description-3": "Durch die Implementierung einer Content Security Policy (CSP) auf Ihrer Webseite kann ich gezielt steuern, von welchen Quellen JavaScript-Code geladen werden darf. Indem ich nur vertrauenswürdige Quellen zulasse, schränke ich das Risiko von potenziell schädlichem JavaScript-Code ein, der durch Dritte eingeschleust werden könnte. Zusätzlich ermöglicht mir die CSP die Festlegung von Richtlinien für Inline-Skripte, eval-Funktionen und andere unsichere Praktiken, wodurch ich XSS-Angriffe erschwere. Ich halte die Frameworks auf dem neusten Stand.",
-      "feature-more-info-3": "Gerne erkläre ich Ihnen mehr darüber in unserem Termin. Lassen Sie uns gemeinsam über Ihre spezifischen Anforderungen sprechen und wie ich Ihre Online-Sicherheit stärken kann.",
-        
-        
-        
-         "feature-title-4": "Wireshark",
-      "feature-description-4": "Wireshark ist ein leistungsstarkes Netzwerkprotokoll-Analysetool, mit dem ich den Netzwerkverkehr überwachen und analysieren kann. Durch die detaillierte Analyse des Datenverkehrs kann ich potenzielle Sicherheitsprobleme wie unsichere Datenübertragungen oder unverschlüsselte Protokolle erkennen. Wireshark liefert mir wertvolle Einblicke in den Netzwerkverkehr und unterstützt mich bei der Identifizierung von Angriffen und Schwachstellen. Ein Muss für Netzwerk Analysen.",
-      "feature-more-info-4": "Weitere Informationen zur Wireshark https://www.wireshark.org/ und natürlich bei unserem Termin.",
-        
-        
-        
-         "feature-title-5": "2FA / Captcha-Verfahren",
-      "feature-description-5": "Ich implementiere bestimmte Maßnahmen für Ihre Sicherheit. Dazu gehören die Zwei-Faktor-Authentifizierung (2FA) und Captcha-Verfahren. Bei der 2FA wird neben dem Passwort ein weiterer Authentifizierungsfaktor benötigt, um Ihre Identität zu bestätigen. Hierbei nutze ich Einmalpasswörter per SMS, Authentifizierungs-Apps oder Hardware-Token. Die Captchas stellen sicher, dass nur echte Benutzer und keine automatisierten Bots auf die Webseite zugreifen können.",
-      "feature-more-info-5": "Gerne erkläre ich Ihnen mehr darüber in unserem Termin. Lassen Sie uns gemeinsam über Ihre spezifischen Anforderungen sprechen und wie ich Ihre Online-Sicherheit stärken kann.",
-        
-        
-        
-         "feature-title-6": "Burp Suite",
-      "feature-description-6": "Burp Suite ist eine hoch entwickelte Plattform für die Durchführung von umfassenden Sicherheitstests für Webanwendungen. Mit ihren leistungsstarken Funktionen unterstützt sie mich bei der Erkennung, Ausnutzung und Behebung von Schwachstellen wie Cross-Site-Scripting (XSS), SQL-Injection und Sicherheitskonfigurationsfehlern. Durch die Möglichkeit, den HTTP-Verkehr abzufangen und zu manipulieren, ermöglicht mir Burp Suite eine gründliche Prüfung potenzieller Angriffspunkte.",
-      "feature-more-info-6": "Weitere Informationen zur Burp Suite sehr gerne bei unserem Termin.",
+     "feature-title-2": "Penetrationstests",
+"feature-description-2": "Ich führe systematische Penetrationstests durch, um Schwachstellen in Ihren Webanwendungen und Ihrer Infrastruktur aufzudecken. Mittels gezielter Angriffe auf Anwendungsebene, Netzwerk-Ports und APIs erarbeite ich ein detailliertes Schwachstellen­profil mit Priorisierung und Gegen­maß­nahmen.",
+"feature-more-info-2": "Erhalten Sie einen umfassenden Bericht mit Handlungsempfehlungen. Details gerne in unserem Termin.",
+
+"feature-title-3": "Content Security Policy (CSP)",
+"feature-description-3": "Mit einer maßgeschneiderten CSP beschränke ich, welche externen Ressourcen geladen werden dürfen, sodass Angriffe via Cross-Site Scripting oder unerwünschte Inline-Skripte effektiv blockiert werden.",
+"feature-more-info-3": "Wir definieren gemeinsam eine CSP, die Ihre Webapplikation sicher macht und gleichzeitig flexibel genug bleibt.",
+
+"feature-title-4": "Netzwerk-Analyse & Monitoring",
+"feature-description-4": "Mit Tools wie Wireshark und tcpdump analysiere ich Ihren Netzwerkverkehr, erkenne unverschlüsselte Datenübertragungen und identifiziere Anomalien, bevor sie zum Problem werden.",
+"feature-more-info-4": "Ich stelle Ihnen einen Maßnahmenkatalog zur Verfügung, um Ihre Netzwerkinfrastruktur dauerhaft zu schützen.",
+
+"feature-title-5": "Multi-Factor Authentication",
+"feature-description-5": "Ich implementiere Zwei-Faktor-Authentifizierung (2FA) und Captcha-Verfahren, um automatisierte Angriffe und Kontoübernahmen zu verhindern. Dabei setze ich auf bewährte Lösungen wie TOTP-Apps, SMS-OTP oder Hardware-Token.",
+"feature-more-info-5": "So erhöhen Sie die Sicherheit Ihrer Nutzeranmeldung ohne großen Mehraufwand.",
+
+"feature-title-6": "Web-Application-Security-Audits",
+"feature-description-6": "In einem vollständigen Audit überprüfe ich Ihre gesamte Web-Applikation auf OWASP-Top-10-Gefährdungen (XSS, SQL-Injection, CSRF u.v.m.) und liefere praxisnahe Empfehlungen zur Risikominimierung.",
+"feature-more-info-6": "Lassen Sie uns im Detail besprechen, welche Audit-Tiefe für Ihr Projekt sinnvoll ist.",
         
         
         
@@ -181,21 +172,27 @@ i18next.init({
 "feature-more-info-1": "I would be happy to explain more about this in our appointment. Let's talk about your specific requirements and how I can enhance your online security.",
 
 
-"feature-title-2": "Kali-Linux",
-"feature-description-2": "Kali Linux, as a highly specialized Linux distribution, provides an extensive collection of security tools for penetration testing. With Kali Linux, I conduct precise network scans, detect vulnerabilities, analyze exploits, and perform many other important security checks. The comprehensive features and versatility of Kali Linux make it an indispensable foundation for extensive and precise security evaluations. A must for comprehensive security assessments.",
-"feature-more-info-2": "More information about Kali Linux at https://www.kali.org and, of course, during our appointment.",
-"feature-title-3": "Secure Programming +",
-"feature-description-3": "By implementing a Content Security Policy (CSP) on your website, I can specifically control which sources are allowed to load JavaScript code. By only allowing trustworthy sources, I limit the risk of potentially harmful JavaScript code that could be injected by third parties. Additionally, the CSP allows me to define policies for inline scripts, eval functions, and other unsafe practices, thus making XSS attacks more difficult. I keep the frameworks up to date.",
-"feature-more-info-3": "I would be happy to explain more about this in our appointment. Let's talk about your specific requirements and how I can enhance your online security.",
-"feature-title-4": "Wireshark",
-"feature-description-4": "Wireshark is a powerful network protocol analysis tool that allows me to monitor and analyze network traffic. Through detailed analysis of data traffic, I can identify potential security issues such as insecure data transmissions or unencrypted protocols. Wireshark provides valuable insights into network traffic and assists me in identifying attacks and vulnerabilities. A must-have for extensive and analyze network traffic.",
-"feature-more-info-4": "More information about Wireshark at https://www.wireshark.org/ and of course, during our appointment.",
-"feature-title-5": "2FA / Captcha Procedures",
-"feature-description-5": "I implement specific measures for your security. These include two-factor authentication (2FA) and captcha procedures. 2FA requires an additional authentication factor in addition to the password to confirm your identity. I use one-time passwords via SMS, authentication apps, or hardware tokens. Captchas ensure that only real users and not automated bots can access the website.",
-"feature-more-info-5": "I would be happy to explain more about this in our appointment. Let's talk about your specific requirements and how I can enhance your online security.",
-"feature-title-6": "Burp Suite",
-"feature-description-6": "Burp Suite is an advanced platform for conducting comprehensive security tests for web applications. With its powerful features, it assists me in detecting, exploiting, and remedying vulnerabilities such as Cross-Site Scripting (XSS), SQL Injection, and security configuration errors. By allowing me to intercept and manipulate HTTP traffic, Burp Suite enables thorough examination of potential attack points.",
-"feature-more-info-6": "More information about Burp Suite will be gladly provided during our appointment.",
+
+"feature-title-2": "Penetration Testing",
+"feature-description-2": "I conduct systematic penetration tests to uncover vulnerabilities in your web applications and infrastructure. By simulating targeted attacks at the application, network port, and API levels, I produce a comprehensive vulnerability report with prioritized remediation steps.",
+"feature-more-info-2": "Receive a detailed report with actionable recommendations – let’s discuss the scope in our appointment.",
+
+"feature-title-3": "Content Security Policy (CSP)",
+"feature-description-3": "With a bespoke CSP, I restrict which external resources can be loaded, effectively blocking XSS attacks and unauthorized inline scripts while maintaining the flexibility your application needs.",
+"feature-more-info-3": "We’ll tailor a CSP that secures your site without compromising functionality.",
+
+"feature-title-4": "Network Analysis & Monitoring",
+"feature-description-4": "Using tools like Wireshark and tcpdump, I analyze your network traffic to detect unencrypted transmissions and suspicious patterns before they escalate into threats.",
+"feature-more-info-4": "You’ll receive a prioritized action plan to fortify your network infrastructure for the long term.",
+
+"feature-title-5": "Multi-Factor Authentication",
+"feature-description-5": "I implement two-factor authentication (2FA) and CAPTCHA systems to block automated attacks and account takeovers, leveraging TOTP apps, SMS-OTP, or hardware tokens as appropriate.",
+"feature-more-info-5": "Enhance login security seamlessly for your users with minimal friction.",
+
+"feature-title-6": "Security Audit & Review",
+"feature-description-6": "In a full security audit, I assess your application against the OWASP Top 10 risks (XSS, SQL injection, CSRF, etc.) and deliver a thorough report with prioritized mitigation strategies.",
+"feature-more-info-6": "Let’s define the audit scope and depth to meet your project goals.",
+
 
         
         
@@ -345,25 +342,25 @@ i18next.init({
 "feature-more-info-1": "Bu konuda daha fazla bilgiyi randevumuzda açıklamaktan memnuniyet duyarım. Özel gereksinimleriniz hakkında konuşalım ve online güvenliğinizi nasıl artırabileceğimi görelim.",
 
 
-"feature-title-2": "Kali-Linux",
-"feature-description-2": "Son derece uzmanlaşmış bir Linux dağıtımı olan Kali Linux, penetrasyon testleri için geniş bir güvenlik aracı koleksiyonu sağlar. Kali Linux ile hassas ağ taramaları yapar, zayıf noktaları tespit eder, açıklıkları analiz eder ve birçok diğer önemli güvenlik kontrollerini gerçekleştiriyorum. Kali Linux'un kapsamlı özellikleri ve çok yönlülüğü, kapsamlı ve hassas güvenlik değerlendirmeleri için vazgeçilmez bir temel yapar. Kapsamlı güvenlik ve profesyonel değerlendirmeleri için Kali bir zorunluluktur.",
-"feature-more-info-2": "Kali Linux hakkında daha fazla bilgi https://www.kali.org adresinde ve tabii ki randevumuzda.",
+"feature-title-2": "Penetrasyon Testleri",
+"feature-description-2": "Web uygulamalarınız ve altyapınız üzerindeki zafiyetleri ortaya çıkarmak için sistematik penetrasyon testleri gerçekleştiriyorum. Uygulama, ağ portları ve API katmanlarına yönelik hedefli saldırılarla ayrıntılı bir güvenlik raporu ve önceliklendirilmiş iyileştirme adımları sunuyorum.",
+"feature-more-info-2": "Eyleme geçirilebilir öneriler içeren detaylı raporu alın – kapsamı randevumuzda konuşalım.",
 
-"feature-title-3": "Güvenli Programlama +",
-"feature-description-3": "Web sitenizde bir İçerik Güvenlik Politikası (CSP) uygulayarak, hangi kaynakların JavaScript kodu yüklemeye izin verildiğini özellikle kontrol ediyorum. Sadece güvenilir kaynaklara izin vererek, üçüncü taraflar tarafından enjekte edilebilecek potansiyel olarak zararlı JavaScript kodunun riskini sınırlıyorum. Ayrıca, CSP, inline scriptler, eval fonksiyonları ve diğer güvenli olmayan uygulamalar için politikalar belirlememe olanak sağlar, bu da XSS saldırılarını daha zor hale getirir. Çerçeveleri, Frameworke ve Kütüphaneleri güncel tutuyorum.",
-"feature-more-info-3": "Bu konuda daha fazla bilgiyi randevumuzda açıklamaktan memnuniyet duyarım. Özel gereksinimleriniz hakkında konuşalım ve online güvenliğinizi nasıl artırabileceğimi görelim.",
+"feature-title-3": "İçerik Güvenlik Politikası (CSP)",
+"feature-description-3": "Özel CSP kurallarıyla, hangi harici kaynakların yüklenebileceğini kontrol ederek XSS saldırılarını ve yetkisiz inline betikleri etkili şekilde engelliyorum.",
+"feature-more-info-3": "Uygulamanızın güvenliğini artırırken işlevselliği koruyacak bir CSP oluşturabiliriz.",
 
-"feature-title-4": "Wireshark",
-"feature-description-4": "Wireshark, ağ trafiğini izlememi ve analiz etmemi sağlayan güçlü bir ağ protokolü analiz aracıdır. Veri trafiğinin detaylı analizi sayesinde, güvenli olmayan veri iletimleri veya şifrelenmemiş protokoller gibi potansiyel güvenlik sorunlarını belirleyebilirim. Wireshark, ağ trafiğine değerli içgörüler sağlar ve beni saldırıları ve zayıf noktaları tespit etmeye yardımcı olur. Kapsamlı ve ağ trafiğini analiz etmek için bir zorunluluktur.",
-"feature-more-info-4": "Wireshark hakkında daha fazla bilgi https://www.wireshark.org/ adresinde ve tabii ki randevumuzda.",
+"feature-title-4": "Ağ Analizi & İzleme",
+"feature-description-4": "Wireshark ve tcpdump gibi araçlarla ağ trafiğinizi analiz ederek şifrelenmemiş iletimleri ve şüpheli aktiviteleri tespit ediyorum, böylece riskleri oluşmadan önce önleyebilirsiniz.",
+"feature-more-info-4": "Uzun vadeli koruma için önceliklendirilmiş bir eylem planı sunuyorum.",
 
-"feature-title-5": "2FA / Captcha İşlemleri",
-"feature-description-5": "Güvenliğiniz için özel önlemler uyguluyorum. Bunlar arasında iki faktörlü kimlik doğrulama (2FA) ve captcha işlemleri bulunur. 2FA, kimliğinizi onaylamak için parolanın yanı sıra ek bir kimlik doğrulama faktörü gerektirir. SMS aracılığıyla tek kullanımlık şifreler, kimlik doğrulama uygulamaları veya donanım tokenları kullanıyorum. Captchalar, sadece gerçek kullanıcıların ve otomatik botların web sitesine erişememesini sağlıyorve, ve  isteğinize göre uygulamaya geçiriyorum.",
-"feature-more-info-5": "Bu konuda daha fazla bilgiyi randevumuzda açıklamaktan memnuniyet duyarım. Özel gereksinimleriniz hakkında konuşalım ve online güvenliğinizi nasıl artırabileceğimi görelim.",
+"feature-title-5": "Çok Faktörlü Kimlik Doğrulama",
+"feature-description-5": "Otomatik saldırıları ve hesap ele geçirmeleri önlemek için iki faktörlü kimlik doğrulama (2FA) ve CAPTCHA sistemleri uyguluyorum. TOTP uygulamaları, SMS-OTP veya donanım tokenlarını kullanarak güvenliği artırıyorum.",
+"feature-more-info-5": "Kullanıcı deneyimini bozmadan oturum açma güvenliğini en üst düzeye çıkarın.",
 
-"feature-title-6": "Burp Suite",
-"feature-description-6": "Burp Suite, web uygulamaları için kapsamlı güvenlik testleri gerçekleştirmek için gelişmiş bir platformdur. Güçlü özellikleri ile, Cross-Site Scripting (XSS), SQL Injection ve güvenlik konfigürasyon hataları gibi zayıf noktaları tespit etmeme, sömürmeme ve çözmeme yardımcı olur. HTTP trafiğini kesme ve manipüle etme yeteneği sağlayan Burp Suite, potansiyel saldırı noktalarının ayrıntılı incelemesine olanak tanır.",
-"feature-more-info-6": "Burp Suite hakkında daha fazla bilgi randevumuzda memnuniyetle sağlanacaktır.",
+"feature-title-6": "Güvenlik Denetimi & İnceleme",
+"feature-description-6": "Tam kapsamlı bir güvenlik denetiminde, uygulamanızı OWASP Top 10 risklerine (XSS, SQL enjeksiyon, CSRF vb.) karşı değerlendiriyor ve önceliklendirilmiş iyileştirme stratejileri içeren detaylı bir rapor sunuyorum.",
+"feature-more-info-6": "Denetim kapsamını ve derinliğini proje hedeflerinize göre belirleyelim.",
 
         
         
