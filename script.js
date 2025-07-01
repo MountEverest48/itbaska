@@ -49,29 +49,28 @@ i18next.init({
         "section-title":"Websicherheit",
         "features-title": "Folgendes biete ich Ihnen für die Sicherheit Ihrer Website:",
       "feature-title-1": "Sicheres Programmieren",
-      "feature-description-1": "Ich validiere und bereinige sorgfältig alle Benutzereingaben, um potenziell schädlichen Code zu blockieren. Ich verwende kontextabhängige Ausgabekodierung, um Benutzerdaten sicher anzuzeigen und XSS-Schwachstellen zu vermeiden. Ich setze bewährte Sicherheitsbibliotheken und Frameworks ein, die speziell für die Webentwicklung entwickelt wurden. Diese Tools bieten Funktionen und Methoden, die automatisch Eingabevalidierung, Ausgabekodierung und andere wichtige Sicherheitsaspekte berücksichtigen.",
+      "feature-description-1": "Ich entwickle Ihre Anwendung nach dem Security-by-Design-Prinzip: Jede Eingabe wird automatisiert auf XSS, SQLi & Co. geprüft und kontextsensitiv kodiert. Moderne Security-Libraries und eingebettete Tests minimieren Angriffsflächen und machen Ihren Code widerstandsfähig gegen gängige Exploits.",
       "feature-more-info-1": "Gerne erkläre ich Ihnen mehr darüber in unserem Termin. Lassen Sie uns gemeinsam über Ihre spezifischen Anforderungen sprechen und wie ich Ihre Online-Sicherheit stärken kann.",
         
         
-        
-     "feature-title-2": "Penetrationstests",
+       "feature-title-2": "Penetrationstests",
 "feature-description-2": "Ich führe systematische Penetrationstests durch, um Schwachstellen in Ihren Webanwendungen und Ihrer Infrastruktur aufzudecken. Mittels gezielter Angriffe auf Anwendungsebene, Netzwerk-Ports und APIs erarbeite ich ein detailliertes Schwachstellen­profil mit Priorisierung und Gegen­maß­nahmen.",
 "feature-more-info-2": "Erhalten Sie einen umfassenden Bericht mit Handlungsempfehlungen. Details gerne in unserem Termin.",
 
 "feature-title-3": "Content Security Policy (CSP)",
-"feature-description-3": "Mit einer maßgeschneiderten CSP beschränke ich, welche externen Ressourcen geladen werden dürfen, sodass Angriffe via Cross-Site Scripting oder unerwünschte Inline-Skripte effektiv blockiert werden.",
+"feature-description-3": "Mit einer maßgeschneiderten CSP beschränke ich, welche externen Ressourcen geladen werden dürfen, sodass Angriffe via Cross-Site Scripting oder unerwünschte Inline-Skripte effektiv blockiert werden.So sorgen Ich für eine saubere Ausführung Ihrer Seiten und halte unerwünschte Skripte zuverlässig fern",
 "feature-more-info-3": "Wir definieren gemeinsam eine CSP, die Ihre Webapplikation sicher macht und gleichzeitig flexibel genug bleibt.",
 
 "feature-title-4": "Netzwerk-Analyse & Monitoring",
-"feature-description-4": "Mit Tools wie Wireshark und tcpdump analysiere ich Ihren Netzwerkverkehr, erkenne unverschlüsselte Datenübertragungen und identifiziere Anomalien, bevor sie zum Problem werden.",
+"feature-description-4": "Mit Tools wie Wireshark und tcpdump analysiere ich Ihren Netzwerkverkehr, erkenne unverschlüsselte Datenübertragungen und identifiziere Anomalien, bevor sie zum Problem werden. So behalte Ich die Kontrolle, entdecke Probleme sofort und kann proaktiv eingreifen, bevor Schäden entstehen.",
 "feature-more-info-4": "Ich stelle Ihnen einen Maßnahmenkatalog zur Verfügung, um Ihre Netzwerkinfrastruktur dauerhaft zu schützen.",
 
 "feature-title-5": "Multi-Factor Authentication",
-"feature-description-5": "Ich implementiere Zwei-Faktor-Authentifizierung (2FA) und Captcha-Verfahren, um automatisierte Angriffe und Kontoübernahmen zu verhindern. Dabei setze ich auf bewährte Lösungen wie TOTP-Apps, SMS-OTP oder Hardware-Token.",
+"feature-description-5": "Ich implementiere Zwei-Faktor-Authentifizierung (2FA) und Captcha-Verfahren, um automatisierte Angriffe und Kontoübernahmen zu verhindern. Dabei setze ich auf bewährte Lösungen wie TOTP-Apps, SMS-OTP oder Hardware-Token.So stärke Ich Ihre Anmeldungen mit minimalem Aufwand und maximaler Sicherheit.",
 "feature-more-info-5": "So erhöhen Sie die Sicherheit Ihrer Nutzeranmeldung ohne großen Mehraufwand.",
 
 "feature-title-6": "Web-Application-Security-Audits",
-"feature-description-6": "In einem vollständigen Audit überprüfe ich Ihre gesamte Web-Applikation auf OWASP-Top-10-Gefährdungen (XSS, SQL-Injection, CSRF u.v.m.) und liefere praxisnahe Empfehlungen zur Risikominimierung.",
+"feature-description-6": "In einem vollständigen Audit überprüfe ich Ihre gesamte Web-Applikation auf OWASP-Top-10-Gefährdungen (XSS, SQL-Injection, CSRF u.v.m.) und liefere praxisnahe Empfehlungen zur Risikominimierung. Ich erstelle einen präzisen Maßnahmenplan, der Ihre Anwendung gezielt gegen OWASP-Top-10-Risiken absichert.",
 "feature-more-info-6": "Lassen Sie uns im Detail besprechen, welche Audit-Tiefe für Ihr Projekt sinnvoll ist.",
         
         
@@ -167,31 +166,29 @@ i18next.init({
 "websec_section":"Web Security",
 "section-title":"Web Security",
 "features-title": "Here's what I offer for the security of your website:",
-"feature-title-1": "Secure Programming",
-"feature-description-1": "I carefully validate and sanitize all user inputs to block potentially harmful code. I use context-dependent output encoding to securely display user data and avoid XSS vulnerabilities. I utilize proven security libraries and frameworks specifically developed for web development. These tools offer functionalities and methods that automatically consider input validation, output encoding, and other important security aspects for youre Security.",
-"feature-more-info-1": "I would be happy to explain more about this in our appointment. Let's talk about your specific requirements and how I can enhance your online security.",
-
-
+"feature-title-1": "Secure-by-Design Development",
+"feature-description-1": "I build your application with Security-by-Design: every input is automatically screened for XSS, SQLi & more and contextually encoded. Modern security libraries and embedded tests shrink attack surfaces and harden your code against common exploits.            ",
+"feature-more-info-1": "I’ll gladly show you in our meeting how we can elevate your security architecture together.",
 
 "feature-title-2": "Penetration Testing",
-"feature-description-2": "I conduct systematic penetration tests to uncover vulnerabilities in your web applications and infrastructure. By simulating targeted attacks at the application, network port, and API levels, I produce a comprehensive vulnerability report with prioritized remediation steps.",
-"feature-more-info-2": "Receive a detailed report with actionable recommendations – let’s discuss the scope in our appointment.",
+"feature-description-2": "I conduct systematic penetration tests to uncover weaknesses in your web apps and infrastructure. Through targeted attacks at the application layer, network ports, and APIs, I create a detailed vulnerability profile with prioritized remediation measures.       ",
+"feature-more-info-2": "Receive a comprehensive report with actionable recommendations—let’s discuss the details during our appointment.",
 
 "feature-title-3": "Content Security Policy (CSP)",
-"feature-description-3": "With a bespoke CSP, I restrict which external resources can be loaded, effectively blocking XSS attacks and unauthorized inline scripts while maintaining the flexibility your application needs.",
-"feature-more-info-3": "We’ll tailor a CSP that secures your site without compromising functionality.",
+"feature-description-3": "With a custom CSP, I control exactly which external resources can load, effectively blocking XSS and unwanted inline scripts. This ensures clean page execution and keeps unauthorized code reliably at bay.                                                         ",
+"feature-more-info-3": "Together, we’ll define a CSP that secures your web application while maintaining flexibility.",
 
 "feature-title-4": "Network Analysis & Monitoring",
-"feature-description-4": "Using tools like Wireshark and tcpdump, I analyze your network traffic to detect unencrypted transmissions and suspicious patterns before they escalate into threats.",
-"feature-more-info-4": "You’ll receive a prioritized action plan to fortify your network infrastructure for the long term.",
+"feature-description-4": "Using tools like Wireshark and tcpdump, I analyze your network traffic, detect unencrypted transmissions, and spot anomalies before they become issues. This way, I keep you in control, catch problems instantly, and intervene proactively.                        ",
+"feature-more-info-4": "I’ll provide you with a prioritized action plan to protect your network infrastructure for the long term.",
 
 "feature-title-5": "Multi-Factor Authentication",
-"feature-description-5": "I implement two-factor authentication (2FA) and CAPTCHA systems to block automated attacks and account takeovers, leveraging TOTP apps, SMS-OTP, or hardware tokens as appropriate.",
-"feature-more-info-5": "Enhance login security seamlessly for your users with minimal friction.",
+"feature-description-5": "I implement two-factor authentication (2FA) and captchas to thwart automated attacks and account takeovers. By leveraging proven solutions like TOTP apps, SMS-OTP or hardware tokens, I strengthen your login flow with minimal effort and maximum security.        ",
+"feature-more-info-5": "Enhance your user authentication without adding complexity.",
 
-"feature-title-6": "Security Audit & Review",
-"feature-description-6": "In a full security audit, I assess your application against the OWASP Top 10 risks (XSS, SQL injection, CSRF, etc.) and deliver a thorough report with prioritized mitigation strategies.",
-"feature-more-info-6": "Let’s define the audit scope and depth to meet your project goals.",
+"feature-title-6": "Web Application Security Audits",
+"feature-description-6": "In a full audit, I review your entire web application against OWASP Top 10 threats (XSS, SQL Injection, CSRF, etc.) and deliver pragmatic recommendations for risk reduction. I craft a precise action plan to shield your application from top-tier vulnerabilities.",
+"feature-more-info-6": "Let’s discuss the ideal audit depth for your project in detail.",
 
 
         
@@ -337,30 +334,30 @@ i18next.init({
         "websec_section":"Web Güvenliği",
 "section-title":"Web Güvenliği",
 "features-title": "İşte web sitenizin güvenliği için sunduğum hizmetler:",
-"feature-title-1": "Güvenli Programlama",
-"feature-description-1": "Potansiyel olarak zararlı kodları engellemek için tüm kullanıcı girişlerini dikkatlice doğrular ve temizliyorum. Güvenli bir şekilde kullanıcı verilerini görüntülemek ve XSS açıklıklarından kaçınmak için bağlama bağımlı çıktı kodlaması kullanıyorum. Web geliştirme için özellikle geliştirilmiş kanıtlanmış güvenlik kütüphaneleri ve çerçevelerini kullanıyorum. Bu araçlar, otomatik olarak giriş doğrulama, çıktı kodlama ve diğer önemli güvenlik yönlerini dikkate alarak işlevsellikler ve yöntemler sunar.",
-"feature-more-info-1": "Bu konuda daha fazla bilgiyi randevumuzda açıklamaktan memnuniyet duyarım. Özel gereksinimleriniz hakkında konuşalım ve online güvenliğinizi nasıl artırabileceğimi görelim.",
-
+"feature-title-1": "Security-by-Design-Entwicklung",
+"feature-description-1": "Uygulamanızı Security-by-Design ilkesiyle geliştiriyorum: Tüm girdiler otomatik olarak XSS, SQLi ve diğer saldırılara karşı taranır ve bağlama duyarlı olarak kodlanır. Modern güvenlik kütüphaneleri ve gömülü testler saldırı yüzeyini küçültür, kodunuzu yaygın açıklar karşısında güçlendirir.",
+"feature-more-info-1": "Güvenlik mimarinizi nasıl bir üst seviyeye taşıyabileceğimizi toplantımızda keyifle gösteririm.",
 
 "feature-title-2": "Penetrasyon Testleri",
-"feature-description-2": "Web uygulamalarınız ve altyapınız üzerindeki zafiyetleri ortaya çıkarmak için sistematik penetrasyon testleri gerçekleştiriyorum. Uygulama, ağ portları ve API katmanlarına yönelik hedefli saldırılarla ayrıntılı bir güvenlik raporu ve önceliklendirilmiş iyileştirme adımları sunuyorum.",
-"feature-more-info-2": "Eyleme geçirilebilir öneriler içeren detaylı raporu alın – kapsamı randevumuzda konuşalım.",
+"feature-description-2": "Web uygulamalarınızdaki ve altyapınızdaki zaafiyetleri ortaya çıkarmak için sistematik penetrasyon testleri gerçekleştiriyorum. Uygulama katmanı, ağ portları ve API’lere yapılan hedefli saldırılarla önceliklendirilmiş düzeltme adımları içeren ayrıntılı bir zafiyet profili sunuyorum.        ",
+"feature-more-info-2": "Pratik öneriler içeren kapsamlı raporu alın—detayları randevumuzda konuşalım.",
 
-"feature-title-3": "İçerik Güvenlik Politikası (CSP)",
-"feature-description-3": "Özel CSP kurallarıyla, hangi harici kaynakların yüklenebileceğini kontrol ederek XSS saldırılarını ve yetkisiz inline betikleri etkili şekilde engelliyorum.",
-"feature-more-info-3": "Uygulamanızın güvenliğini artırırken işlevselliği koruyacak bir CSP oluşturabiliriz.",
+"feature-title-3": "Content Security Policy (CSP)",
+"feature-description-3": "Özel bir CSP ile hangi dış kaynakların yüklenebileceğini kesin olarak kontrol ediyorum; XSS ve istenmeyen inline betikler bu sayede engelleniyor. Sayfalarınızın temiz çalışmasını sağlar, yetkisiz kodları uzak tutarım.                                                                          ",
+"feature-more-info-3": "Web uygulamanızı esneklikten ödün vermeden nasıl güvence altına alacağımızı birlikte tanımlayalım.",
 
-"feature-title-4": "Ağ Analizi & İzleme",
-"feature-description-4": "Wireshark ve tcpdump gibi araçlarla ağ trafiğinizi analiz ederek şifrelenmemiş iletimleri ve şüpheli aktiviteleri tespit ediyorum, böylece riskleri oluşmadan önce önleyebilirsiniz.",
-"feature-more-info-4": "Uzun vadeli koruma için önceliklendirilmiş bir eylem planı sunuyorum.",
+"feature-title-4": "Ağ Analizi ve İzleme",
+"feature-description-4": "Wireshark ve tcpdump gibi araçlarla ağ trafiğinizi analiz ediyor, şifrelenmemiş iletimleri tespit ediyor ve sorunlar büyümeden önce anormallikleri belirliyorum. Böylece kontrol sizde kalır, problemleri anında görür ve proaktif müdahale edebilirim.                                             ",
+"feature-more-info-4": "Ağ altyapınızı uzun vadede koruyacak öncelikli eylem planını size sunarım.",
 
 "feature-title-5": "Çok Faktörlü Kimlik Doğrulama",
-"feature-description-5": "Otomatik saldırıları ve hesap ele geçirmeleri önlemek için iki faktörlü kimlik doğrulama (2FA) ve CAPTCHA sistemleri uyguluyorum. TOTP uygulamaları, SMS-OTP veya donanım tokenlarını kullanarak güvenliği artırıyorum.",
-"feature-more-info-5": "Kullanıcı deneyimini bozmadan oturum açma güvenliğini en üst düzeye çıkarın.",
+"feature-description-5": "Otomatik saldırıları ve hesap ele geçirmelerini önlemek için iki faktörlü kimlik doğrulama (2FA) ve captcha yöntemleri uyguluyorum. TOTP uygulamaları, SMS-OTP veya donanım tokenları gibi kanıtlanmış çözümlerle girişlerinizi minimal çaba ile maksimum güvenlikle güçlendiriyorum.               ",
+"feature-more-info-5": "Karmaşıklık eklemeden kullanıcı doğrulamanızı güçlendirin.",
 
-"feature-title-6": "Güvenlik Denetimi & İnceleme",
-"feature-description-6": "Tam kapsamlı bir güvenlik denetiminde, uygulamanızı OWASP Top 10 risklerine (XSS, SQL enjeksiyon, CSRF vb.) karşı değerlendiriyor ve önceliklendirilmiş iyileştirme stratejileri içeren detaylı bir rapor sunuyorum.",
-"feature-more-info-6": "Denetim kapsamını ve derinliğini proje hedeflerinize göre belirleyelim.",
+"feature-title-6": "Web Uygulama Güvenlik Denetimleri",
+"feature-description-6": "Tam kapsamlı bir denetimde uygulamanızı OWASP Top 10 tehditlerine (XSS, SQL Injection, CSRF vb.) karşı inceliyorum ve risk azaltımı için uygulamalı öneriler sunuyorum. Uygulamanızı yüksek öncelikli zafiyetlere karşı koruyacak net bir eylem planı hazırlıyorum.                                 ",
+"feature-more-info-6": "Projeniz için ideal denetim derinliğini detaylıca konuşalım.",
+
 
         
         
@@ -708,6 +705,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
     });
   });
 });
+
+
+
+    
+
+
 
 
 
